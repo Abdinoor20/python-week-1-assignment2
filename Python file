@@ -1,0 +1,22 @@
+
+# This program introduces me using Python variables.
+
+name = "Abdi Noor Abdullahi"
+age = 33
+favourite_language = "Python"
+goal = "To become a skilled software developer"
+
+# Display my personal introduction.
+print("Hello! My name is", name + ".")
+print("I am", age, "years old.")
+print("My favourite programming language is", favourite_language + ".")
+print("My goal for this course is", goal + ".")
+PS C:\Users\Feiys\OneDrive\Desktop\python-week-1-assignmentR> python all_about_me.py
+Hello! My name is Abdi Noor Abdullahi.
+I am 33 years old.
+My favourite programming language is Python.
+My goal for this course is To become a skilled software developer.
+PS C:\Users\Feiys\OneDrive\Desktop\python-week-1-assignmentR> git init
+Initialized empty Git repository in C:/Users/Feiys/OneDrive/Desktop/python-week-1-assignmentR/.git/
+PS C:\Users\Feiys\OneDrive\Desktop\python-week-1-assignmentR> git add all_about_me.py
+PS C:\Users\Feiys\OneDrive\Desktop\python-week-1-assignmentR> git commit -m "Complete Week 1 All About Me Python assignment"
